@@ -1,0 +1,83 @@
+E-nodes Project
+E-nodes Project
+1.1 Data Gathering
+	1.1.1 Research on the topic
+	1.1.1.1 Research on Background of the Study
+	1.1.1.2 Research on MANET
+	1.1.2 Research on Microcontrollers
+	1.1.2.1 Research on Arduino
+	1.1.2.2 Research on Raspberry Pi
+	1.1.2.3 Research on Beagle Bone
+	1.1.1.4 Research on Wi-Fi Peer to Peer
+	1.1.1.5 Research on FireChat
+	1.1.3 Research on networking protocols
+	1.1.3.1.1 Research on AODV
+	1.1.3.2.2 Research on DSDV
+	1.1.3.3.3 Research on DSR
+	1.1.3.4.4 Research on TORA
+	1.1.3.5.5 Research on BATMAN-ADV
+	1.1.3.6.6 Research on OLSR/OSLRD
+	1.1.4 Interview OCD and DND
+	1.1.4.1 Gather facts about communications restoration (Post-Yolanda)
+	1.1.4.2 Research Rescue and Recovery Processes
+	1.1.4.3 Research on the process that the government follows on restoring communications
+	1.1.5 Research on operating system
+	1.1.5.1 Research on NOOBS
+	1.1.5.2 Research on Raspbian
+	1.1.5.3 Research on Byzantium
+1.2 Systems Analysis and Design
+	1.2.1 Formulation of Diagrams for Web App
+	1.2.2.1 Formulation of Use Case Diagram
+	1.2.2.2 Formulation of Entity Relation Diagram
+	1.2.2.3 Formulation of Context Diagram 
+	1.2.2.4 Formulation of Data Flow Diagram
+	1.2.2 Web App Functions
+1.3 System Requirements
+	1.3.1 Software Requirements
+	1.3.2.1 Software Design
+	1.3.2.1.1 Software Specification
+	1.3.2.1.2 Software Prototyping
+	1.3.2.1.3 Software Module Design/Planning
+	1.3.2.2 Software Build
+	1.3.2.2.1 Software Module Coding
+	1.3.2.2.2 Software Module Debugging
+	1.3.3 Software Quality Assurance
+	1.3.3.1 Test Plan Preparation
+	1.3.3.2 Test Case Preparation
+	1.3.4 Hardware Requirements
+	1.3.4.1 Hardware Requirements Planning/Research
+	1.3.4.2 Hardware Component Selection	
+1.4 Implementation
+	1.4.1 Dividing System into Modules
+	1.4.2 Code Modules
+	1.4.3 Module Integration
+1.5 Testing
+	1.5.1 Software Testing
+	1.5.1.1 Connectivity Testing
+	1.5.1.2 Throughput Testing
+	1.5.1.3 Software Integration Testing
+	1.5.1.4 Code Testing
+	1.5.1.5 Unit Testing
+	1.5.1.5 Database Testing
+	1.5.1.6 Load Testing
+	1.5.1.7 Performance Testing
+	1.5.1.8 Security Testing
+	1.5.1.9 Reliability Testing
+	1.5.1.10 Stress Testing
+	1.5.2 Hardware Testing
+	1.5.2.1 Weather Testing
+	1.5.2.2 Topology Testing
+	1.5.2.3 Range Testing
+	1.5.2.4 Obstruction Testing
+1.6 Project Management
+	1.6.1 Project Status Report
+	1.6.2 Deliverables Management
+	1.6.3 Metrics Definition/Creation
+	1.6.4 Prepare Quality Assurance plan
+	1.6.5 Task Management
+	1.6.6 Planning
+1.7 Maintenance
+	1.7.1 Hardware Maintenance
+	1.7.2 Software Maintenance
+
+base the wbs from softdev timeplan and csproj identify project and product activities.
